@@ -1,0 +1,1 @@
+module cousera {exports demos;exports module5;exports module4;exports module6;exports module1;exports parsing;exports module3;requires core;requires java.desktop;requires unfolding.0.9.7.uscd;}
